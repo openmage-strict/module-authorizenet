@@ -1,8 +1,0 @@
-src/app/code/core/Mage/Authorizenet/                                     app/code/core/Mage/Authorizenet/
-src/app/design/adminhtml/default/default/layout/authorizenet.xml         app/design/adminhtml/default/default/layout/authorizenet.xml
-src/app/design/adminhtml/default/default/template/authorizenet/          app/design/adminhtml/default/default/template/authorizenet/
-src/app/design/frontend/base/default/layout/authorizenet.xml             app/design/frontend/base/default/layout/authorizenet.xml
-src/app/design/frontend/base/default/template/authorizenet/              app/design/frontend/base/default/template/authorizenet/
-src/app/design/frontend/rwd/default/template/authorizenet/               app/design/frontend/rwd/default/template/authorizenet/
-src/app/etc/modules/Mage_Authorizenet.xml                                app/etc/modules/Mage_Authorizenet.xml
-src/app/locale/en_US/Mage_Authorizenet.csv                               app/locale/en_US/Mage_Authorizenet.csv
